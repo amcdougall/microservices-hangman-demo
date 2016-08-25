@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1422897016">
+    <data-source source="LOCAL" name="H2 -" uuid="b5c4ea13-ce79-4ddf-892f-7b381c5235f2">
+      <driver-ref>h2.in-memory</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="H2 - HANGMAN" uuid="b46e6e72-3ce0-415e-9ab5-ec8ed75a35d3">
+      <driver-ref>h2.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$APPLICATION_HOME_DIR$/bin/HANGMAN</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="H2 -" uuid="b5c4ea13-ce79-4ddf-892f-7b381c5235f2">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>UNNAMED.*</schema-pattern>
+      <default-schemas>UNNAMED.*</default-schemas>
+      <table-pattern>T_WORD</table-pattern>
+    </data-source>
+    <data-source name="H2 - HANGMAN" uuid="b46e6e72-3ce0-415e-9ab5-ec8ed75a35d3">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>HANGMAN.PUBLIC</schema-pattern>
+      <default-schemas>HANGMAN.PUBLIC</default-schemas>
+    </data-source>
+  </component>
+</project>

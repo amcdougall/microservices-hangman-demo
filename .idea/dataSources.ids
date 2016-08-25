@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="H2 -" uuid="b5c4ea13-ce79-4ddf-892f-7b381c5235f2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+    <schema name="INFORMATION_SCHEMA" catalog="UNNAMED"/>
+    <schema name="PUBLIC" catalog="UNNAMED"/>
+  </data-source>
+  <data-source name="H2 - HANGMAN" uuid="b46e6e72-3ce0-415e-9ab5-ec8ed75a35d3">
+    <database-info product="H2" version="1.3.176 (2014-04-05)" jdbc-version="4.0" driver-name="H2 JDBC Driver" driver-version="1.3.176 (2014-04-05)">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact"/>
+    <schema name="PUBLIC" catalog="HANGMAN"/>
+  </data-source>
+</component>
